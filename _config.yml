@@ -9,36 +9,33 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+title                  : "Dr. Ahmad Najmuddin Ibrahim"
+name                   : "Ahmad Najmuddin Ibrahim"
+description            : "Senior Lecturer in Mechatronic Engineering | UMPSA"
+url                    : "https://www.drnajmuddin.com"
+baseurl                : ""
+repository             : "dr-najm/dr-najm.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  name             : "Ahmad Najmuddin Ibrahim"
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Senior Lecturer at the Faculty of Manufacturing & Mechatronic Engineering Technology, UMPSA. My research focuses on terrain-adaptive robot mobility, soft-soil terramechanics, and grouser-assisted locomotion. I also work on duct inspection robotics and supervise postgraduate research in AI-powered robot navigation."
+  location         : "Pekan, Pahang, Malaysia"
+  employer         : "Universiti Malaysia Pahang Al-Sultan Abdullah"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "anajmuddin@umpsa.edu.my"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=vvDpmhoAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8014-9248"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -51,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "dr-najm"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
