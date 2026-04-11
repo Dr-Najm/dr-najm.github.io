@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.drnajmuddin.com/sitemap.xml
+Sitemap: https://dr-najm.github.io /sitemap.xml
