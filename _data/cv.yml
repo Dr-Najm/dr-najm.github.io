@@ -33,7 +33,7 @@ cv:
         start_date: 2011
         end_date: 2013
         highlights:
-          - Research on leg-wheel hybrid rover designs for soft terrain traversal.
+          - Research on prototype adaptable feet sole mechanism using vacuum-jamming mechanism 
 
       - institution: Ibaraki University
         location: Hitachi, Japan
@@ -136,7 +136,6 @@ cv:
         highlights:
           - Grant reference RDU212402, UIC210810
           - Principal Investigator
-          - Status: Completed
         start_date: 2021
         end_date: 2022
 
