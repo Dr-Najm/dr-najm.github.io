@@ -461,16 +461,6 @@ ninja.data = [{
           description: "Experimental and design work on grouser-integrated track systems to improve traction, slip reduction, and load distribution for field robots operating in challenging terrain.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_grouser_mobility/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-self-balancing-robot-platform-for-control-systems-research",
           title: 'Self-Balancing Robot Platform for Control Systems Research',
           description: "An Arduino-based inverted pendulum platform serving as a continuously evolving testbed for PID control development, stability analysis, and undergraduate control systems education.",
@@ -481,46 +471,16 @@ ninja.data = [{
           description: "An autonomous mobile robot designed for non-lethal deterrence of crop-damaging wildlife, targeting real-world deployment in agricultural settings.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_agricultural_robot/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-robotics-education-amp-community-engagement",
           title: 'Robotics Education &amp;amp; Community Engagement',
           description: "A community-engaged robotics programme linking coursework, hands-on student projects, and the SULAM outreach initiative — centred on robotic hand design and prototype development.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_robotics_education/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-engineering-workshop-inventory-amp-infrastructure-system",
           title: 'Engineering Workshop Inventory &amp;amp; Infrastructure System',
           description: "A low-cost, high-usability system for component categorisation, location tracking, and resource management in a high-mix engineering workshop environment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_workshop_infrastructure/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
