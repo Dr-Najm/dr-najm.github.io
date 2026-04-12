@@ -103,29 +103,29 @@ cv:
           - "International Invention, Innovation & Technology Exhibition"
 
     skills:
-      - name: "Robotic Mechanical System Design"
+      - label: "Robotic Mechanical System Design"
         details: "Rover design, grouser mechanisms, soft-soil locomotion, prototype development (5+ years)"
 
-      - name: "Mechanical-Electronics Systems Integration"
+      - label: "Mechanical-Electronics Systems Integration"
         details: "Mechatronics, sensor integration, embedded systems, actuator control (5+ years)"
 
-      - name: "Discrete Element Modelling (DEM)"
+      - label: "Discrete Element Modelling (DEM)"
         details: "Soil-wheel interaction simulation, terramechanics, granular material modelling"
 
-      - name: "Mobile Robotics"
+      - label: "Mobile Robotics"
         details: "Autonomous navigation, wheeled robots, agricultural robots, inspection robots"
 
-      - name: "Programming & Tools"
+      - label: "Programming & Tools"
         details: "MATLAB, Arduino, ROS, Python, SolidWorks, EDEM"
 
     languages:
-      - name: Malay
+      - label: Malay
         details: Native
 
-      - name: English
+      - label: English
         details: Fluent
 
-      - name: Japanese
+      - label: Japanese
         details: Conversational
 
     professional_affiliations:
