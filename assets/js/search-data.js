@@ -467,11 +467,6 @@ ninja.data = [{
           description: "A low-cost, high-usability system for component categorisation, location tracking, and resource management in a high-mix engineering workshop environment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_workshop_infrastructure/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',
