@@ -456,11 +456,6 @@ ninja.data = [{
           description: "A full-stack mechatronic system for automated cleaning and inspection of HVAC duct networks, integrating active brush mechanisms, embedded sensing, tethered power delivery, and real-time vision.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_hvac_robot/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-grouser-based-mobility-enhancement-for-rugged-terrain-robots",
           title: 'Grouser-Based Mobility Enhancement for Rugged Terrain Robots',
           description: "Experimental and design work on grouser-integrated track systems to improve traction, slip reduction, and load distribution for field robots operating in challenging terrain.",
