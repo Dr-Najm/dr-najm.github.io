@@ -1,145 +1,155 @@
 cv:
   name: Ahmad Najmuddin Ibrahim
-  location: Pekan, Pahang, Malaysia
+  label: Senior Lecturer & Robotics Researcher
   email: anajmuddin@umpsa.edu.my
-  website: https://www.drnajmuddin.com
+  location: Pekan, Pahang, Malaysia
+  image: ""
+  summary: Senior Lecturer at the Faculty of Manufacturing & Mechatronic Engineering Technology, Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA). Research focuses on rover locomotion, soft-soil terramechanics, grouser-assisted traction, and HVAC duct inspection robotics. Published 20+ peer-reviewed works with 133 total citations and h-index of 6.
+
   social_networks:
     - network: GitHub
       username: Dr-Najm
-    - network: ORCID
-      username: "0000-0002-8014-9248"
+    - network: LinkedIn
+      username: ""
 
   sections:
-    summary:
-      - "Senior Lecturer at the Faculty of Manufacturing & Mechatronic Engineering Technology, Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA). Research focuses on rover locomotion, soft-soil terramechanics, grouser-assisted traction, and HVAC duct inspection robotics. Published 20+ peer-reviewed works with 133 total citations and h-index of 6."
-
-    education:
+    Education:
       - institution: Ibaraki University
+        location: Hitachi, Japan
+        url: https://www.ibaraki.ac.jp/
         area: Industrial Science / Robotics Engineering
-        degree: D.Eng.
-        start_date: 2013-04
-        end_date: 2017-03
-        location: Hitachi, Japan
+        studyType: Doctor of Engineering (D.Eng.)
+        start_date: 2013
+        end_date: 2017
         highlights:
-          - "Research on assistive grouser mechanisms for wheeled rover locomotion on soft sand inclines."
-          - "Developed and tested prototype rovers on unconsolidated sandy terrain."
+          - Research on assistive grouser mechanisms for wheeled rover locomotion on soft sand inclines.
+          - Developed prototype rovers tested on unconsolidated sandy terrain.
 
       - institution: Ibaraki University
-        area: Mechatronic Engineering
-        degree: M.Eng.
-        start_date: 2011-04
-        end_date: 2013-03
         location: Hitachi, Japan
+        url: https://www.ibaraki.ac.jp/
+        area: Mechatronic Engineering
+        studyType: Master of Engineering (M.Eng.)
+        start_date: 2011
+        end_date: 2013
         highlights:
-          - "Research on leg-wheel hybrid rover designs for soft terrain traversal."
+          - Research on prototype adaptable feet sole mechanism using vacuum-jamming mechanism 
 
       - institution: Ibaraki University
-        area: Mechatronic Engineering
-        degree: B.Eng.
-        start_date: 2008-04
-        end_date: 2011-03
         location: Hitachi, Japan
+        url: https://www.ibaraki.ac.jp/
+        area: Mechatronic Engineering
+        studyType: Bachelor of Engineering (B.Eng.)
+        start_date: 2008
+        end_date: 2011
 
-    experience:
+    Experience:
       - company: Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
-        position: Senior Lecturer (DS13-A)
-        start_date: 2024-12
+        position: Senior Lecturer (Pensyarah Universiti, DS13-A)
         location: Pekan, Pahang, Malaysia
+        start_date: 2024-12
+        end_date: present
         highlights:
-          - "Teaching undergraduate courses in robotics, mechatronics, and control systems."
-          - "Supervising PhD and Master's students in robotics and mechatronics research."
-          - "Principal Investigator for HVAC duct monitoring robot project (RDU243812)."
+          - Teaching undergraduate courses in robotics, mechatronics, and control systems.
+          - Supervising PhD and Master's students in robotics and mechatronics research.
+          - Principal Investigator for HVAC duct monitoring robot research project.
 
       - company: Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)
         position: Pensyarah Universiti (DS51-A)
+        location: Pekan, Pahang, Malaysia
         start_date: 2021-02
         end_date: 2024-11
-        location: Pekan, Pahang, Malaysia
         highlights:
-          - "Taught Microcontroller System, Robotic Prototype Design, Robotics System Modelling, Control System Engineering."
-          - "Served as Head of Programme for Bachelor of Mechatronic Engineering Technology (Robotics)."
-          - "Teaching evaluation ratings consistently 85-98% across all courses."
+          - Taught core courses including Microcontroller System, Robotic Prototype Design, and Robotics System Modelling.
+          - Served as Head of Programme for Bachelor of Mechatronic Engineering Technology (Robotics).
 
       - company: Universiti Malaysia Pahang
         position: Lecturer
+        location: Pekan, Pahang, Malaysia
         start_date: 2017-05
         end_date: 2021-01
-        location: Pekan, Pahang, Malaysia
         highlights:
-          - "Developed and delivered robotics and mechatronics undergraduate courses."
-          - "Initiated research programme on assistive grouser mechanisms for wheeled rovers."
+          - Developed and delivered robotics and mechatronics courses.
+          - Initiated research programme on assistive grouser mechanisms for wheeled rovers.
 
-    research_projects:
-      - name: "Automated Cleaning and Monitoring of HVAC Duct Using Mobile Robot (RDU243812)"
-        date: "2024-2026"
+    Awards:
+      - title: GOLD Medal — ITEX 2024
+        date: 2024
+        awarder: International Invention, Innovation & Technology Exhibition (ITEX)
+        summary: Awarded for the project "Remotely Underwater Cleaning Robot".
+
+      - title: SILVER Medal — ITEX 2023
+        date: 2023
+        awarder: International Invention, Innovation & Technology Exhibition (ITEX)
+        summary: Awarded for the project "Agronetics IoT Based Smart Farming System".
+
+    Skills:
+      - name: Robotic Mechanical System Design
+        level: Expert
+        icon: fa-solid fa-robot
+        keywords: "Rover design, grouser mechanisms, soft-soil locomotion, prototype development"
+
+      - name: Mechanical-Electronics Systems Integration
+        level: Expert
+        icon: fa-solid fa-microchip
+        keywords: "Mechatronics, sensor integration, embedded systems, actuator control"
+
+      - name: Discrete Element Modelling (DEM)
+        level: Intermediate
+        icon: fa-solid fa-cubes
+        keywords: "Soil-wheel interaction simulation, terramechanics, granular material modelling"
+
+      - name: Mobile Robotics
+        level: Expert
+        icon: fa-solid fa-gear
+        keywords: "Autonomous navigation, wheeled robots, agricultural robots, inspection robots"
+
+    Languages:
+      - name: Malay
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: Japanese
+        summary: "Conversational"
+
+    Projects:
+      - name: Automated Cleaning and Monitoring of HVAC Duct Using Mobile Robot
+        summary: Development of a tethered mobile robot platform for automated HVAC duct inspection and cleaning, integrating visual and environmental sensors for condition assessment.
         highlights:
-          - "Principal Investigator"
-          - "Development of tethered mobile robot for HVAC duct inspection and cleaning."
-          - "Integrating visual and environmental sensors for condition assessment."
+          - Grant reference RDU243812, UIC240849
+          - Principal Investigator
+        start_date: 2024
+        end_date: 2026
 
-      - name: "Grouser Effect Contact Modelling in Cohesive Unstructured Terrains (RDU230135)"
-        date: "2023-2025"
+      - name: Grouser Effect Contact Modelling in Cohesive Unstructured Terrains
+        summary: Investigation of grouser-soil interaction mechanisms in cohesive unstructured terrains using experimental and simulation approaches.
         highlights:
-          - "Principal Investigator"
-          - "Investigation of grouser-soil interaction in cohesive unstructured terrains."
+          - Grant reference RDU230135
+          - Principal Investigator
+        start_date: 2023
+        end_date: 2025
 
-      - name: "Development of Autonomous Mobile Robot for Optimum HVAC Duct Cleaning (RDU212402)"
-        date: "2021-2022"
+      - name: Development of Autonomous Mobile Robot for Optimum HVAC Duct Cleaning
+        summary: Design and development of an autonomous mobile robot for HVAC duct cleaning applications.
         highlights:
-          - "Principal Investigator"
-          - "Status: Completed"
+          - Grant reference RDU212402, UIC210810
+          - Principal Investigator
+        start_date: 2021
+        end_date: 2022
 
-    awards:
-      - name: "GOLD Medal — ITEX 2024"
-        date: "2024"
-        highlights:
-          - "Project: Remotely Underwater Cleaning Robot"
-          - "International Invention, Innovation & Technology Exhibition"
+    Certificates:
+      - name: Graduate Engineer
+        date: 2018-01-01
+        issuer: Board of Engineers Malaysia (BEM)
+        icon: fa-solid fa-certificate
 
-      - name: "SILVER Medal — ITEX 2023"
-        date: "2023"
-        highlights:
-          - "Project: Agronetics IoT Based Smart Farming System"
-          - "International Invention, Innovation & Technology Exhibition"
-
-    skills:
-      - label: "Robotic Mechanical System Design"
-        details: "Rover design, grouser mechanisms, soft-soil locomotion, prototype development (5+ years)"
-
-      - label: "Mechanical-Electronics Systems Integration"
-        details: "Mechatronics, sensor integration, embedded systems, actuator control (5+ years)"
-
-      - label: "Discrete Element Modelling (DEM)"
-        details: "Soil-wheel interaction simulation, terramechanics, granular material modelling"
-
-      - label: "Mobile Robotics"
-        details: "Autonomous navigation, wheeled robots, agricultural robots, inspection robots"
-
-      - label: "Programming & Tools"
-        details: "MATLAB, Arduino, ROS, Python, SolidWorks, EDEM"
-
-    languages:
-      - label: Malay
-        details: Native
-
-      - label: English
-        details: Fluent
-
-      - label: Japanese
-        details: Conversational
-
-    professional_affiliations:
-      - name: "IEEE — International Professional Member"
-        date: "2018"
-        highlights:
-          - "Institute of Electrical and Electronics Engineers"
-
-      - name: "Board of Engineers Malaysia (BEM) — Graduate Engineer"
-        date: "2018"
-        highlights:
-          - "Registration valid"
+      - name: IEEE International Professional Member
+        date: 2018-01-01
+        issuer: Institute of Electrical and Electronics Engineers (IEEE)
+        icon: fa-solid fa-id-card
 
       - name: "Malaysian Board of Technologists (MBOT) — Graduate Technologist"
-        date: "2000"
-        highlights:
-          - "Registration valid"
+        date: 2018-01-01
+
