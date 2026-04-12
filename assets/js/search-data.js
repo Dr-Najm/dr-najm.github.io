@@ -467,6 +467,46 @@ ninja.data = [{
           description: "A low-cost, high-usability system for component categorisation, location tracking, and resource management in a high-mix engineering workshop environment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_workshop_infrastructure/";
+            },},{id: "teachings-computer-programming",
+          title: 'Computer Programming',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BFF2003/";
+            },},{id: "teachings-microcontroller-system",
+          title: 'Microcontroller System',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BFM3333/";
+            },},{id: "teachings-robotic-prototype-design",
+          title: 'Robotic Prototype Design',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BFM4533/";
+            },},{id: "teachings-control-system-engineering",
+          title: 'Control System Engineering',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BHM4103/";
+            },},{id: "teachings-industrial-automation",
+          title: 'Industrial Automation',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BHM4704/";
+            },},{id: "teachings-capstone-project",
+          title: 'Capstone Project',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BTI3623/";
+            },},{id: "teachings-engineering-dynamics",
+          title: 'Engineering Dynamics',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BTM1223/";
+            },},{id: "teachings-robotics-system-modelling",
+          title: 'Robotics System Modelling',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/BTX2643/";
             },},{
         id: 'social-cv',
         title: 'CV',
