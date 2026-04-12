@@ -451,11 +451,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "projects-hvac-duct-cleaning-amp-inspection-robotic-system",
+          title: 'HVAC Duct Cleaning &amp;amp; Inspection Robotic System',
+          description: "A full-stack mechatronic system for automated cleaning and inspection of HVAC duct networks, integrating active brush mechanisms, embedded sensing, tethered power delivery, and real-time vision.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_hvac_robot/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-grouser-based-mobility-enhancement-for-rugged-terrain-robots",
+          title: 'Grouser-Based Mobility Enhancement for Rugged Terrain Robots',
+          description: "Experimental and design work on grouser-integrated track systems to improve traction, slip reduction, and load distribution for field robots operating in challenging terrain.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_grouser_mobility/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -466,6 +476,16 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-self-balancing-robot-platform-for-control-systems-research",
+          title: 'Self-Balancing Robot Platform for Control Systems Research',
+          description: "An Arduino-based inverted pendulum platform serving as a continuously evolving testbed for PID control development, stability analysis, and undergraduate control systems education.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_self_balancing_robot/";
+            },},{id: "projects-agricultural-pest-deterrent-robot",
+          title: 'Agricultural Pest Deterrent Robot',
+          description: "An autonomous mobile robot designed for non-lethal deterrence of crop-damaging wildlife, targeting real-world deployment in agricultural settings.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_agricultural_robot/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -476,11 +496,21 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-robotics-education-amp-community-engagement",
+          title: 'Robotics Education &amp;amp; Community Engagement',
+          description: "A community-engaged robotics programme linking coursework, hands-on student projects, and the SULAM outreach initiative — centred on robotic hand design and prototype development.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_robotics_education/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-engineering-workshop-inventory-amp-infrastructure-system",
+          title: 'Engineering Workshop Inventory &amp;amp; Infrastructure System',
+          description: "A low-cost, high-usability system for component categorisation, location tracking, and resource management in a high-mix engineering workshop environment.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_workshop_infrastructure/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
