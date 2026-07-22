@@ -70,15 +70,11 @@ cv:
           - Initiated research programme on assistive grouser mechanisms for wheeled rovers.
 
     Awards:
-      - title: GOLD Medal — ITEX 2024
-        date: 2024
-        awarder: International Invention, Innovation & Technology Exhibition (ITEX)
-        summary: Awarded for the project "Remotely Underwater Cleaning Robot".
+      - label: GOLD Medal — ITEX 2024
+        details: "International Invention, Innovation & Technology Exhibition (ITEX) — Awarded for the project 'Remotely Underwater Cleaning Robot'."
 
-      - title: SILVER Medal — ITEX 2023
-        date: 2023
-        awarder: International Invention, Innovation & Technology Exhibition (ITEX)
-        summary: Awarded for the project "Agronetics IoT Based Smart Farming System".
+      - label: SILVER Medal — ITEX 2023
+        details: "International Invention, Innovation & Technology Exhibition (ITEX) — Awarded for the project 'Agronetics IoT Based Smart Farming System'."
 
     Skills:
       - name: Robotic Mechanical System Design
