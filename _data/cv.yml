@@ -71,11 +71,13 @@ cv:
 
     Awards:
       - title: GOLD Medal — ITEX 2024
+        authors: []
         date: 2024
         awarder: International Invention, Innovation & Technology Exhibition (ITEX)
         summary: Awarded for the project "Remotely Underwater Cleaning Robot".
 
       - title: SILVER Medal — ITEX 2023
+        authors: []
         date: 2023
         awarder: International Invention, Innovation & Technology Exhibition (ITEX)
         summary: Awarded for the project "Agronetics IoT Based Smart Farming System".
