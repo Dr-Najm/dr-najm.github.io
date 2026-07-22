@@ -70,11 +70,15 @@ cv:
           - Initiated research programme on assistive grouser mechanisms for wheeled rovers.
 
     Awards:
-      - label: GOLD Medal — ITEX 2024
-        details: "International Invention, Innovation & Technology Exhibition (ITEX) — Awarded for the project 'Remotely Underwater Cleaning Robot'."
+      - title: GOLD Medal — ITEX 2024
+        date: 2024
+        awarder: International Invention, Innovation & Technology Exhibition (ITEX)
+        summary: Awarded for the project "Remotely Underwater Cleaning Robot".
 
-      - label: SILVER Medal — ITEX 2023
-        details: "International Invention, Innovation & Technology Exhibition (ITEX) — Awarded for the project 'Agronetics IoT Based Smart Farming System'."
+      - title: SILVER Medal — ITEX 2023
+        date: 2023
+        awarder: International Invention, Innovation & Technology Exhibition (ITEX)
+        summary: Awarded for the project "Agronetics IoT Based Smart Farming System".
 
     Skills:
       - name: Robotic Mechanical System Design
@@ -98,17 +102,21 @@ cv:
         keywords: "Autonomous navigation, wheeled robots, agricultural robots, inspection robots"
         
     Interests:
-      - label: Terrain-Adaptive Robot Mobility
-        details: Grouser mechanisms, soft-soil terramechanics, wheeled rover locomotion, traction optimisation
+      - name: Terrain-Adaptive Robot Mobility
+        icon: fa-solid fa-robot
+        keywords: "Grouser mechanisms, soft-soil terramechanics, wheeled rover locomotion, traction optimisation"
 
-      - label: Field & Inspection Robotics
-        details: HVAC duct inspection, confined-space navigation, tethered robotic systems
+      - name: Field & Inspection Robotics
+        icon: fa-solid fa-magnifying-glass
+        keywords: "HVAC duct inspection, confined-space navigation, tethered robotic systems"
 
-      - label: Agricultural Robotics
-        details: Autonomous field robots, pest deterrence, unstructured terrain navigation
+      - name: Agricultural Robotics
+        icon: fa-solid fa-seedling
+        keywords: "Autonomous field robots, pest deterrence, unstructured terrain navigation"
 
-      - label: Embedded Systems & Control
-        details: Microcontroller systems, PID control, sensor fusion, real-time embedded programming
+      - name: Embedded Systems & Control
+        icon: fa-solid fa-microchip
+        keywords: "Microcontroller systems, PID control, sensor fusion, real-time embedded programming"
         
     Languages:
       - name: Malay
