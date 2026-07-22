@@ -17,7 +17,7 @@ cv:
       - institution: Ibaraki University
         location: Hitachi, Japan
         url: https://www.ibaraki.ac.jp/
-        area: Industrial Science / Robotics Engineering
+        area: Industrial Science (Robotics Engineering)
         studyType: Doctor of Engineering (D.Eng.)
         start_date: 2013
         end_date: 2017
@@ -28,7 +28,7 @@ cv:
       - institution: Ibaraki University
         location: Hitachi, Japan
         url: https://www.ibaraki.ac.jp/
-        area: Mechatronic Engineering
+        area: Intelligent Systems Engineering
         studyType: Master of Engineering (M.Eng.)
         start_date: 2011
         end_date: 2013
@@ -38,7 +38,7 @@ cv:
       - institution: Ibaraki University
         location: Hitachi, Japan
         url: https://www.ibaraki.ac.jp/
-        area: Mechatronic Engineering
+        area: Intelligent Systems Engineering
         studyType: Bachelor of Engineering (B.Eng.)
         start_date: 2008
         end_date: 2011
@@ -140,7 +140,7 @@ cv:
         end_date: 2022
 
     Certificates:
-      - name: Graduate Engineer
+      - name: Graduate Engineer (Manufacturing)
         date: 2018-01-01
         issuer: Board of Engineers Malaysia (BEM)
         icon: fa-solid fa-certificate
@@ -150,6 +150,8 @@ cv:
         issuer: Institute of Electrical and Electronics Engineers (IEEE)
         icon: fa-solid fa-id-card
 
-      - name: "Malaysian Board of Technologists (MBOT) — Graduate Technologist"
+      - name: Graduate Technologist
         date: 2018-01-01
+        issuer: Malaysian Board of Technologists (MBOT)
+        icon: fa-solid fa-id-card
 
