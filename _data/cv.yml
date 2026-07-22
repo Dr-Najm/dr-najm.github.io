@@ -1,10 +1,7 @@
 cv:
   name: Ahmad Najmuddin Ibrahim
-  label: Senior Lecturer & Robotics Researcher
   email: anajmuddin@umpsa.edu.my
   location: Pekan, Pahang, Malaysia
-  image: ""
-  summary: Senior Lecturer at the Faculty of Manufacturing & Mechatronic Engineering Technology, Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA). Research focuses on rover locomotion, soft-soil terramechanics, grouser-assisted traction, and HVAC duct inspection robotics. Published 20+ peer-reviewed works with 133 total citations and h-index of 6.
 
   social_networks:
     - network: GitHub
@@ -103,7 +100,20 @@ cv:
         level: Expert
         icon: fa-solid fa-gear
         keywords: "Autonomous navigation, wheeled robots, agricultural robots, inspection robots"
+        
+    Interests:
+      - label: Terrain-Adaptive Robot Mobility
+        details: Grouser mechanisms, soft-soil terramechanics, wheeled rover locomotion, traction optimisation
 
+      - label: Field & Inspection Robotics
+        details: HVAC duct inspection, confined-space navigation, tethered robotic systems
+
+      - label: Agricultural Robotics
+        details: Autonomous field robots, pest deterrence, unstructured terrain navigation
+
+      - label: Embedded Systems & Control
+        details: Microcontroller systems, PID control, sensor fusion, real-time embedded programming
+        
     Languages:
       - name: Malay
         summary: "Native speaker"
