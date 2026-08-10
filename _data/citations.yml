@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-08-10'
 papers:
   vvDpmhoAAAAJ:2P1L_qKh6hAC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Investigation of Wheel Robot Grouser Width Parameter Effect on Robot Mobility in Soft Sand Terrain Using Sand Test Bed
     year: '2023'
   vvDpmhoAAAAJ:70eg2SAEIzsC:
-    citations: 4
+    citations: 5
     title: Field study of PID parameter tuning investigation in peristaltic dosing pump control for use in automated fertilizer mixing system
     year: '2020'
   vvDpmhoAAAAJ:9yKSN-GCB0IC:
@@ -35,7 +35,7 @@ papers:
     year: '2018'
   vvDpmhoAAAAJ:HoB7MX3m0LUC:
     citations: 14
-    title: 'Pace running of a quadruped robot driven by pneumatic muscle actuators: an experimental study'
+    title: 'Pace running of a quadruped robot driven by pneumatic muscle actuators: An experimental study'
     year: '2022'
   vvDpmhoAAAAJ:JV2RwH3_ST0C:
     citations: 0
@@ -73,12 +73,16 @@ papers:
     citations: 1
     title: Rover wheel assistive grouser angle of attack effects on traction force in soft terrain
     year: '2023'
+  vvDpmhoAAAAJ:a0OBvERweLwC:
+    citations: 0
+    title: Development of rover designed to climb steep slope of uncompacted loose sand
+    year: '2014'
   vvDpmhoAAAAJ:cFHS6HbyZ2cC:
     citations: 0
     title: 'Simulation analysis for assembly line workstation layout: case study'
     year: '2019'
   vvDpmhoAAAAJ:d1gkVwhDpl0C:
-    citations: 24
+    citations: 25
     title: Experimental development of stiffness adjustable foot sole for use by bipedal robots walking on uneven terrain
     year: '2012'
   vvDpmhoAAAAJ:g5m5HwL7SMYC:
@@ -106,11 +110,11 @@ papers:
     title: Autors Index
     year: Unknown Year
   vvDpmhoAAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 10
     title: Development of wheeled rover for traversing steep slope of cohesionless sand with stuck recovery using assistive grousers
     year: '2016'
   vvDpmhoAAAAJ:u5HHmVD_uO8C:
-    citations: 15
+    citations: 16
     title: The effect of assistive anchor-like grousers on wheeled rover performance over unconsolidated sandy dune inclines
     year: '2016'
   vvDpmhoAAAAJ:u_35RYKgDlwC:
@@ -118,7 +122,7 @@ papers:
     title: Rover wheel assistive grouser shape effects on traction force in flat soft terrain
     year: '2023'
   vvDpmhoAAAAJ:vV6vV6tmYwMC:
-    citations: 4
+    citations: 5
     title: Outdoor position estimation of a mobile platform for precision farming and agriculture automation
     year: '2020'
   vvDpmhoAAAAJ:zA6iFVUQeVQC:
